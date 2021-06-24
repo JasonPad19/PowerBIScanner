@@ -5,6 +5,8 @@ Build a power bi report to understand and monitor the artefact in your report.
 - Do we have DAX measure? what are the DAX scripts?
 
 
+# Please Star PowerBI Scanner if you like it.
+
 
 # Methodologyy 
 PowerBI template is using DataModelSchema to store the metadata.
@@ -19,7 +21,7 @@ Compatible with May 2021 Power BI Desktop
 
 # Demo 
 
-If you want a similar report as below, please email to JasonJiangBiz@gmail.com for a free power bi scan.
+If you want a similar report as below or further changes, please email to JasonJiangBiz@gmail.com.
 
 
 ![image](https://user-images.githubusercontent.com/52347372/123221078-a93ec680-d522-11eb-99c5-7bab4b2f4f0a.png)
