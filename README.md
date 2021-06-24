@@ -7,7 +7,7 @@ Build a power bi report to understand and monitor the artefact in your report.
 
 
 # Methodologyy 
-PowerBI is using DataModelSchema to store the metadata.
+PowerBI template is using DataModelSchema to store the metadata.
 - Measures can be found in: model.tables.measures
 - Columns can be found in: model.tables.columns
 - Calculated Columns can be found in: model.tables.columns 
