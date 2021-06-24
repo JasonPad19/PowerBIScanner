@@ -1,3 +1,7 @@
+# Please Star PowerBI Scanner if you like it.
+
+
+
 # PowerBI Scanner
 Build a power bi report to understand and monitor the artefact in your report.
 - How many datasets have been used in a report?
@@ -5,7 +9,7 @@ Build a power bi report to understand and monitor the artefact in your report.
 - Do we have DAX measure? what are the DAX scripts?
 
 
-# Please Star PowerBI Scanner if you like it.
+
 
 
 # Methodologyy 
