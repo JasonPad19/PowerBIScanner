@@ -27,7 +27,7 @@ Compatible with May 2021 Power BI Desktop
 
 # Demo 
 
-If you want a similar report as below or further changes, please email to JasonJiangBiz@gmail.com.
+If you would like to have further changes or more support, please email me.
 
 
 ![image](https://user-images.githubusercontent.com/52347372/123221078-a93ec680-d522-11eb-99c5-7bab4b2f4f0a.png)
