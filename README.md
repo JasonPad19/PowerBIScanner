@@ -4,6 +4,8 @@
 
 # PowerBI Scanner
 Build a power bi report to understand and monitor the artefact in your report.
+- How many data sources we have? 
+- is it web content(URL) , sql database (Server, Database, Table/View), DocumentDB (URL, Collection, Entity)
 - How many datasets have been used in a report?
 - What are the power query scripts?
 - Do we have DAX measure? what are the DAX scripts?
@@ -13,7 +15,7 @@ Build a power bi report to understand and monitor the artefact in your report.
 
 
 # Methodology 
-PowerBI is using DataModelSchema to store the metadata.
+PowerBI is using DataModelSchema to store the metadata, thus, we could read and report the metadata
 - Measures can be found in: model.tables.measures
 - Columns can be found in: model.tables.columns
 - Calculated Columns can be found in: model.tables.columns 
@@ -30,9 +32,9 @@ If you want a similar report as below or further changes, please email to JasonJ
 
 ![image](https://user-images.githubusercontent.com/52347372/123221078-a93ec680-d522-11eb-99c5-7bab4b2f4f0a.png)
 
+![image](https://user-images.githubusercontent.com/52347372/123350583-670f9680-d5af-11eb-8e62-c4d9ef6ebb08.png)
 
-![image](https://user-images.githubusercontent.com/52347372/123221034-9f1cc800-d522-11eb-807b-edf74d8f7c7a.png)
-
+![image](https://user-images.githubusercontent.com/52347372/123350552-58c17a80-d5af-11eb-8900-f158f8458e8a.png)
 
 ![image](https://user-images.githubusercontent.com/52347372/123221127-b78ce280-d522-11eb-9a91-41c7af9ea708.png)
 
@@ -42,8 +44,7 @@ If you want a similar report as below or further changes, please email to JasonJ
 
 Here is a sample report for your reference.
 
-https://app.powerbi.com/view?r=eyJrIjoiMTA0ZDE3MzAtOWY2Ny00M2IzLWI0MzgtMzAzMTU1MjUxZWFiIiwidCI6IjcxY2ZiZjg4LTE2ZWItNGVjMC05M2E2LTYzYzNkMWRlMWY0MyJ9
-
+https://app.powerbi.com/view?r=eyJrIjoiNjI3NDFhM2EtZDQ0MS00Y2FiLWE1ZTItYzY5OThmNjhmMjY5IiwidCI6IjcxY2ZiZjg4LTE2ZWItNGVjMC05M2E2LTYzYzNkMWRlMWY0MyJ9
 
 
 
